@@ -1,0 +1,428 @@
+dn: uid=owen.hudson, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Owen
+sn: Hudson
+mail: owen.hudson@lt.com
+mobile: 94771111111
+homePhone: 940112820001
+employeeType: permanent
+homePostalAddress: London
+userPassword: {SSHA}jFWm/KHHisPHMUl/cJiipyWmWtC6C6SE
+
+
+dn: uid=rachel.burgess, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Rachel
+sn: Burgess
+mail: rachel.burgess@lt.com
+mobile: 94771111112
+homePhone: 940112820002
+employeeType: permanent
+homePostalAddress: London
+userPassword: {SSHA}5aV7n6N8ngjKALqcYip6k3wwdnxOXa8e
+
+
+dn: uid=mary.mathis, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Mary
+sn: Mathis
+mail: mary.mathis@lt.com
+mobile: 94771111113
+homePhone: 940112820003
+employeeType: permanent
+homePostalAddress: London
+userPassword: {SSHA}pD8l9Cdsga1f6r6r3ycV7SifwaDWxaf9
+
+
+dn: uid=molly.vaughan, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Molly
+sn: Vaughan
+mail: molly.vaughan@lt.com
+mobile: 94771111114
+homePhone: 940112820004
+employeeType: permanent
+homePostalAddress: London
+userPassword: {SSHA}f9HHTOL8OAiV2higntziFbZaa5Q1N3pb
+
+
+dn: uid=piers.duncan, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Piers
+sn: Duncan
+mail: piers.duncan@lt.com
+mobile: 94771111115
+homePhone: 940112820005
+employeeType: permanent
+homePostalAddress: London
+userPassword: {SSHA}VZBmXqCL/WQ8IkwseGsCna2kGhQcdx/Y
+
+
+dn: uid=dorothy.wallace, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Dorothy
+sn: Wallace
+mail: dorothy.wallace@lt.com
+mobile: 94771111116
+homePhone: 940112820006
+employeeType: permanent
+homePostalAddress: London
+userPassword: {SSHA}T0wLg1y7qOu/Swa0RblE3yPqv9bXYqsw
+
+
+dn: uid=emma.clark, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Emma
+sn: Clark
+mail: emma.clark@lt.com
+mobile: 94771111117
+homePhone: 940112820007
+employeeType: permanent
+homePostalAddress: London
+userPassword: {SSHA}GVZJ6T4ZB4jYOS5ZYMR+Kaor3j3TFGUS
+
+
+dn: uid=tracey.mills, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Tracey
+sn: Mills
+mail: tracey.mills@lt.com
+mobile: 94771111118
+homePhone: 940112820008
+employeeType: permanent
+homePostalAddress: London
+userPassword: {SSHA}pdFCVbxpAvv/KOwbg+gOdXV3LQLwaXlZ
+
+
+dn: uid=dorothy.wilkins, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Dorothy
+sn: Wilkins
+mail: dorothy.wilkins@lt.com
+mobile: 94771111119
+homePhone: 940112820009
+employeeType: permanent
+homePostalAddress: London
+userPassword: {SSHA}dauJpioO4pjqAYm/axHQ7gyDd3SdLwjG
+
+
+dn: uid=ava.lambert, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Ava
+sn: Lambert
+mail: ava.lambert@lt.com
+mobile: 94771111120
+homePhone: 940112820010
+employeeType: permanent
+homePostalAddress: London
+userPassword: {SSHA}LD6p8nKEkJsN3a39ZRO0AvVzbBS5VxmU
+
+
+dn: uid=wanda.kelly, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Wanda
+sn: Kelly
+mail: wanda.kelly@lt.com
+mobile: 94771111121
+homePhone: 940112820011
+employeeType: permanent
+homePostalAddress: London
+userPassword: {SSHA}GIV+NI3AGVrS+2ZYJolilJjXuuHmhsNF
+
+
+dn: uid=blake.mills, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Blake
+sn: Mills
+mail: blake.mills@lt.com
+mobile: 94771111122
+homePhone: 940112820012
+employeeType: permanent
+homePostalAddress: London
+userPassword: {SSHA}SBF1KU1p/XvwSEEEdzEVUORs1MT2HrDm
+
+
+dn: uid=gordon.simpson, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Gordon
+sn: Simpson
+mail: gordon.simpson@lt.com
+mobile: 94771111123
+homePhone: 940112820013
+employeeType: permanent
+homePostalAddress: London
+userPassword: {SSHA}Kmj2mDEoypFcbZtDnwwVFg9Cb44wbnWX
+
+
+dn: uid=carl.manning, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Carl
+sn: Manning
+mail: carl.manning@lt.com
+mobile: 94771111124
+homePhone: 940112820014
+employeeType: permanent
+homePostalAddress: London
+userPassword: {SSHA}Az4CNDFLC2A3GtvF00X/WAFxtv8WL31M
+
+
+dn: uid=grace.lee, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Grace
+sn: Lee
+mail: grace.lee@lt.com
+mobile: 94771111125
+homePhone: 940112820015
+employeeType: permanent
+homePostalAddress: Berlin
+userPassword: {SSHA}0HXBLJwZfa3KOWKAtVdtuholgVQet8gv
+
+
+dn: uid=andrew.oliver, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Andrew
+sn: Oliver
+mail: andrew.oliver@lt.com
+mobile: 94771111126
+homePhone: 940112820016
+employeeType: permanent
+homePostalAddress: Berlin
+userPassword: {SSHA}BXCBzfZt9egbHa/pcg6mOnj74pHxzzpb
+
+
+dn: uid=gabrielle.fisher, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Gabrielle
+sn: Fisher
+mail: gabrielle.fisher@lt.com
+mobile: 94771111127
+homePhone: 940112820017
+employeeType: permanent
+homePostalAddress: Berlin
+userPassword: {SSHA}ffg/zoLCtgzLVKm29AehSyedl1AOgyQ5
+
+
+dn: uid=sean.parr, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Sean
+sn: Parr
+mail: sean.parr@lt.com
+mobile: 94771111145
+homePhone: 940112820035
+employeeType: contractor
+homePostalAddress: Johannesburg
+userPassword: {SSHA}axZGNtALTKPlte+FZzl7BGIjiD2NWcrP
+
+
+dn: uid=warren.ferguson, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Warren
+sn: Ferguson
+mail: warren.ferguson@lt.com
+mobile: 94771111146
+homePhone: 940112820036
+employeeType: contractor
+homePostalAddress: Johannesburg
+userPassword: {SSHA}Exapr3qlUzm8x/h2oRJZDkUFbZf9LKf2
+
+
+dn: uid=gabrielle.vaughan, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Gabrielle
+sn: Vaughan
+mail: gabrielle.vaughan@lt.com
+mobile: 94771111147
+homePhone: 940112820037
+employeeType: contractor
+homePostalAddress: Colombo
+userPassword: {SSHA}1Mk/R/1OAP+aewypwdsWlt7Ck0xYzumG
+
+
+dn: uid=wendy.davidson, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Wendy
+sn: Davidson
+mail: wendy.davidson@lt.com
+mobile: 94771111148
+homePhone: 940112820038
+employeeType: contractor
+homePostalAddress: Colombo
+userPassword: {SSHA}uDalWUCZvdTcD9QLOEPppYZmVAC/O/TK
+
+
+dn: uid=alison.hart, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Alison
+sn: Hart
+mail: alison.hart@lt.com
+mobile: 94771111149
+homePhone: 940112820039
+employeeType: contractor
+homePostalAddress: Colombo
+userPassword: {SSHA}dY+tsddptzW5GXftAPt0FotPdEaIMUht
+
+
+dn: uid=jane.forsyth, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Jane
+sn: Forsyth
+mail: jane.forsyth@lt.com
+mobile: 94771111150
+homePhone: 940112820040
+employeeType: contractor
+homePostalAddress: New York
+userPassword: {SSHA}uqYwsjp8iOd3bfz9eBj0/fABe+1a33Wr
+
+
+dn: uid=ella.allan, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Ella
+sn: Allan
+mail: ella.allan@lt.com
+mobile: 94771111151
+homePhone: 940112820041
+employeeType: contractor
+homePostalAddress: New York
+userPassword: {SSHA}EMIDhUAbavM/4hJ+VOL2lVHonhcGoBsz
+
+
+dn: uid=paul.black, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Paul
+sn: Black
+mail: paul.black@lt.com
+mobile: 94771111152
+homePhone: 940112820042
+employeeType: contractor
+homePostalAddress: New York
+userPassword: {SSHA}Ujp1TFVhNnJ5BNLgTJRw9MUMv+3NNDyt
+
+
+dn: uid=natalie.greene, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Natalie
+sn: Greene
+mail: natalie.greene@lt.com
+mobile: 94771111153
+homePhone: 940112820043
+employeeType: contractor
+homePostalAddress: Moscow
+userPassword: {SSHA}uhtaUwDcWItpKp9bRqFf0ko0I5rA9sBS
+
+
+dn: uid=sophie.king, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Sophie
+sn: King
+mail: sophie.king@lt.com
+mobile: 94771111154
+homePhone: 940112820044
+employeeType: contractor
+homePostalAddress: Moscow
+userPassword: {SSHA}3U7Fa8VR61I9339dmsGm8+m4xRvzf8V+
+
+
+dn: uid=james.scott, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: James
+sn: Scott
+mail: james.scott@lt.com
+mobile: 94771111155
+homePhone: 940112820045
+employeeType: contractor
+homePostalAddress: Moscow
+userPassword: {SSHA}aI34/C9GVyrFgiz+DR+nddQTuK9bsOJH
+
+
+dn: uid=jane.brown, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Jane
+sn: Brown
+mail: jane.brown@lt.com
+mobile: 94771111156
+homePhone: 940112820046
+employeeType: contractor
+homePostalAddress: Moscow
+userPassword: {SSHA}ZK5U3uPZMkcUJt9TnEMgbYBfHvad1Jfj
+
+
+dn: uid=kevin.rees, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Kevin
+sn: Rees
+mail: kevin.rees@lt.com
+mobile: 94771111157
+homePhone: 940112820047
+employeeType: contractor
+homePostalAddress: Moscow
+userPassword: {SSHA}ftBILhuypm211NOdMP8V1k5WP2SJUvV2
+
+
+dn: uid=brandon.macdonald, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Brandon
+sn: MacDonald
+mail: brandon.macdonald@lt.com
+mobile: 94771111158
+homePhone: 940112820048
+employeeType: contractor
+homePostalAddress: Amsterdam
+userPassword: {SSHA}7UCMfsQ/FuAs5QXdsdA9GkVjJYWw2+lS
+
+
+dn: uid=olivia.gill, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Olivia
+sn: Gill
+mail: olivia.gill@lt.com
+mobile: 94771111159
+homePhone: 940112820049
+employeeType: contractor
+homePostalAddress: Amsterdam
+userPassword: {SSHA}QW7+bpnbCkg0NC2OUd5a5T/rOT+Y3uY3
+
+
+dn: uid=lisa.mclean, ou=employees, dc=ltacademy, dc=com
+objectClass: inetOrgPerson
+objectClass: top
+cn: Lisa
+sn: McLean
+mail: lisa.mclean@lt.com
+mobile: 94771111160
+homePhone: 940112820050
+employeeType: contractor
+homePostalAddress: Amsterdam
+userPassword: {SSHA}kZ9XGYqdNVRUoDGd/v6Rc98vEVDSobxz
+
